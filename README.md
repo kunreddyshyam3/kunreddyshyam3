@@ -1,10 +1,13 @@
-- 👋 Hi, I’m shyamsunder
- - certified in az-204 and dp-900 aswell
-- 👀 I’m interested in artifical intelligence and devOps cloud native technologies
-- 🌱 I’m currently learning Data structures and devOps simultaneously
-- 💞️ I’m looking to collaborate on projects based on devOps and cloud technologies
-- 📫 How to reach me through mail kunreddyshyam3@gmail.com
-  i have many creative ideas in devOps and Ai aswell looking forward and collab with the folks
+
+👋 Hey there, I'm Shyamsunder!
+
+📜 Certified in AZ-204 and DP-900, my passion for cloud-native technologies and artificial intelligence drives me forward.
+
+🌱 Currently, I'm diving deep into data structures while simultaneously exploring the exciting realms of DevOps.
+
+🤝 I'm all ears for collaborating on projects that revolve around the captivating domains of DevOps and cloud technologies.
+
+📬 Feel free to connect with me via email at kunreddyshyam3@gmail.com. I'm brimming with creative ideas in the world of DevOps and AI, eagerly looking forward to collaborating with like-minded individuals. Let's bring innovation to life! 👨‍💻🚀
 
 <!---
 kunreddyshyam3/kunreddyshyam3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
